@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML model to detect disease in leaves**
 
-- 🌱 I’m currently learning **DSA, JAVA**
+- 🌱 I’m currently learning **DSA, JAVASCRIPT**
 
 - 📫 How to reach me **lakshyamehta4316@gmail.com**
 
